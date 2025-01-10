@@ -1,6 +1,5 @@
 # Diccionario de palabras
 
-~~~~
 
 ~~~
 Café Natural
