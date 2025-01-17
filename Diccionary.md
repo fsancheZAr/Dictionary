@@ -1,10 +1,8 @@
 # Diccionario de palabras
 
 
-~~~
 Café Natural
 ~~~
-
 ~~~
 Café Orgánico
 ~~~
@@ -28,7 +26,7 @@ Acahual
 ~~~
 ~~~
 Arroyo
-~~~
+~~~~
 ~~~
 Barrera
 ~~~
@@ -52,4 +50,25 @@ Planada
 ~~~
 ~~~
 Pantion
+~~~
+~~~
+Carretera
+~~~
+~~~
+Pasto
+~~~
+~~~
+Casa
+~~~
+~~~
+Pastizal
+~~~
+~~~
+Escuela
+~~~
+~~~
+Derrumbe
+~~~
+~~~
+Río
 ~~~
